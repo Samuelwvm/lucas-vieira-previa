@@ -1,0 +1,4 @@
+:HL["/lucas-vieira-previa/_next/static/chunks/20672u-hwi7-7.css","style"]
+2:[["children",{"s":"__PAGE__","h":160}]]
+1:[["children",{"s":"/_not-found","h":64,"c":"$Q2"}]]
+0:{"b":"m1Ba_J78lnbWmUiG6C8f-","t":{"t":{"s":"","h":16,"c":"$Q1"}}}
